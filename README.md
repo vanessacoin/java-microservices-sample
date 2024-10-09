@@ -1,4 +1,4 @@
-# [PT-BR]
+[PT-BR]
 
 ## Exemplo de microserviços Java
 
